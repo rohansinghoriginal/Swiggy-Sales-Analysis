@@ -54,7 +54,7 @@ The project generates several visualizations to understand sales behavior and cu
 This visualization shows how sales fluctuate on a **daily basis**.
 It helps identify patterns such as sudden spikes, dips, or irregular ordering behavior.
 
-![Daily Sales Trend](images/daily_sales_trend.png)
+![Daily Sales Trend](Swiggy-Sales-Analysis/images/daily_sales_trend.png)
 
 Daily analysis helps businesses understand **short-term demand variations** and operational load.
 
