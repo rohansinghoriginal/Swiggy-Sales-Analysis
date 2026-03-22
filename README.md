@@ -54,7 +54,7 @@ The project generates several visualizations to understand sales behavior and cu
 This visualization shows how sales fluctuate on a **daily basis**.
 It helps identify patterns such as sudden spikes, dips, or irregular ordering behavior.
 
-![Daily Sales Trend](Swiggy-Sales-Analysis/images/daily_sales_trend.png)
+![Daily Sales Trend](Images/daily_sales_trend.png)
 
 Daily analysis helps businesses understand **short-term demand variations** and operational load.
 
@@ -64,7 +64,7 @@ Daily analysis helps businesses understand **short-term demand variations** and 
 
 Weekly analysis helps detect **consistent patterns across weekdays and weekends**.
 
-![Weekly Sales Trend](images/weekly_trend.png)
+![Weekly Sales Trend](Images/weekly_trend.png)
 
 Food delivery platforms often experience **higher weekend demand**, and this visualization highlights such behavioral patterns.
 
@@ -74,7 +74,7 @@ Food delivery platforms often experience **higher weekend demand**, and this vis
 
 This visualization captures the **overall growth or decline of sales over months**.
 
-![Monthly Sales Trend](images/monthly_sales_trend.png)
+![Monthly Sales Trend](Images/monthly_sales_trend.png)
 
 Monthly trends help identify:
 
@@ -88,7 +88,7 @@ Monthly trends help identify:
 
 This analysis compares **vegetarian and non-vegetarian food sales** to understand customer preferences.
 
-![Food Type Sales](images/food_type.png)
+![Food Type Sales](Images/food_type.png)
 
 This insight can help platforms:
 
@@ -102,7 +102,7 @@ This insight can help platforms:
 
 This visualization highlights the **cities generating the highest revenue**.
 
-![Top Cities](images/top_5_cities.png)
+![Top Cities](Images/top_5_cities.png)
 
 Businesses can use this information to:
 
@@ -116,7 +116,7 @@ Businesses can use this information to:
 
 This chart displays **total sales contribution from different states**.
 
-![Sales by State](images/total_sales_by_state.png)
+![Sales by State](Images/total_sales_by_state.png)
 
 Understanding geographical performance helps in:
 
